@@ -10,7 +10,7 @@ peewee
 pymysql
 psycopg2
 mongoengine
-numpy==1.19.3
+numpy
 pandas
 matplotlib
 seaborn
